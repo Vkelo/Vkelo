@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Vkelo
-- 👀 I’m interested in all kind of development challenges
-- 🌱 I’m currently learning to work with data and dataspaces
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn @ www.linkedin.com/in/VKelo
 
 <!---
